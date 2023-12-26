@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode in Python
+LeetCode in Python3
